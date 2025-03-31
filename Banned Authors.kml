@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="19CybbIB_JVzZQbepLoQsSDGxVZF6UCTA">
+	<name>Banned Authors</name>
+	<Schema name="__managed_schema" id="__managed_schema">
+		<SimpleField type="string" name="template-field/google/textColor-string">
+			<displayName>textColor</displayName>
+			<gx:fieldAlias>textColor</gx:fieldAlias>
+			<gx:fieldDefault>#FFFFFF</gx:fieldDefault>
+		</SimpleField>
+		<SimpleField type="int" name="template-field/google/usePhotoAsBackgroundImage-integer">
+			<displayName>usePhotoAsBackgroundImage</displayName>
+			<gx:fieldAlias>usePhotoAsBackgroundImage</gx:fieldAlias>
+			<gx:fieldDefault>0</gx:fieldDefault>
+		</SimpleField>
+	</Schema>
+	<gx:CascadingStyle kml:id="__managed_style_574429C8D33723E205AB">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_32A300999D3723E205AB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4CDC4267F83723E205AB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_574429C8D33723E205AB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2BC7C3B4A73723E205AB">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ffa2359d</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0364BE35593723E205AB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_103687C46B3723E205AB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2BC7C3B4A73723E205AB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_73804283FB3723E205AA">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_61A07AAA5D3723E205AA">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_73804283FB3723E205AA</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_8E912EC7AC3723E205AA</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_5D1EDE59443723E205AA">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2FA07483203723E205A9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ffc9a9d5</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4EC25F11FC3723E205AA">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3A0FFA18BA3723E205AA">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4EC25F11FC3723E205AA</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5D1EDE59443723E205AA</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1774EB11E43723E205AA">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ffbc47ab</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_07E919C2C73723E205AA">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1774EB11E43723E205AA</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2166ED8A3D3723E205AA</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_5315D0F4E73723E205A9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ffc673cf</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4CDC4267F83723E205AB">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_103687C46B3723E205AB">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ffa2359d</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_8E912EC7AC3723E205AA">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_48BC494DB53723E205A9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ffc673cf</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2166ED8A3D3723E205AA">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ffbc47ab</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_39F90360923723E205A9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_48BC494DB53723E205A9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5315D0F4E73723E205A9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1311BE255B3723E205A9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ffc9a9d5</bgColor>
+				<gx:displayMode>fullscreen</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F9C7571693723E205A9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1311BE255B3723E205A9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2FA07483203723E205A9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="038225AC4435EE778EC3">
+		<name>Banned Authors Historical Timeline: Forgotten Stories</name>
+		<description><![CDATA[<h2><b>This map traces connections between works of fiction with real ties to location across the world.&nbsp;</b><br></h2>]]></description>
+		<styleUrl>#__managed_style_0F9C7571693723E205A9</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="template-field/google/usePhotoAsBackgroundImage-integer">1</SimpleData>
+				<SimpleData name="template-field/google/textColor-string">#000000</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+	</Placemark>
+	<Placemark id="01BAA63D0C3603A614EA">
+		<name>Black Female Authors: Physical locations</name>
+		<description><![CDATA[<div>Ranging from 1883 to 2017<br></div>]]></description>
+		<styleUrl>#__managed_style_39F90360923723E205A9</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="template-field/google/textColor-string">#000000</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+	</Placemark>
+	<Placemark id="06B471B97B35EE8563B7">
+		<name>Maya Angelou </name>
+		<description><![CDATA[<div>1883<br></div>]]></description>
+		<styleUrl>#__managed_style_07E919C2C73723E205AA</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="template-field/google/textColor-string">#000000</SimpleData>
+				<SimpleData name="template-field/google/usePhotoAsBackgroundImage-integer">1</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+	</Placemark>
+	<Placemark id="0BE742A97A35EE85C18C">
+		<name>Stamps</name>
+		<description><![CDATA[<div>Maya Angelou grew up in Stamps, Arkansas where her family experienced racial discrimination and learned to adjust and persevere. This inspired her writing, where she could use her voice to gain power and persuade her audiences to acknowledge the power of Black women.&nbsp;<br></div>]]></description>
+		<gx:mid>/m/0qv2t</gx:mid>
+		<gx:fid>0x8633eb63824b6881:0x5692f503549e622a</gx:fid>
+		<LookAt>
+			<longitude>-93.49481949999999</longitude>
+			<latitude>33.34739855</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9709.729964018896</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3A0FFA18BA3723E205AA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QVBSRE1BV21wSThLQnFkRFJRTnNsSmswdVlTUlZRMHpJN3AyMkNYREMrZG1RWHAvVmF6SHYvTktXSnZlR3J3ZmhaMzgwZ2dTbWY3aGFTazlYa1l6dEJQVkovdG03YWsxSVdoRXdSTTB1MnZFMUh1cElmZ0x0b0h5UWVZZTFBdGVuTjhTbVZ5dTdnWWYzUXFJaHczSDF2Q3Zwa0xWTURoK2pjU1FCRmVIaDczalg5K1I4UEtXd2xmRkMralFnOXFDZ1FWQ1l5UGkyY2h5dWZnZlZkNGVPTWxNeHp3akJST05rdjZ6cVZuTFpSN3M0TjFMRDZwYkJVM1l5SGlEczhjajhHd3ExN2s9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4APRDMAXmS9_KmC1r-usgSmakefEw5HsVojnaOQvxQnqCT6_bHL4xGNzMsRlo0sF1Dkz3CGHhuYYmz_SrVzoVE7WrErQI0lDa_ujsyEPJBUfv5ynjJywAOgvS1rnE1G_Q38rv9Lg7XQC5uXWZdOpsxJanUFT3a6KNhooavi5LMvyR6NrIzeirpI5gOA_YTeD7ktBzPc6g64x8IFcjQMMXb2gzHaHNqcF9biVR7qCcuRsAK4qWfEj1nbNQL3lRA3XU3bTr18uvFgS0GDT4z8qw?fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-93.496578,33.361072,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05FD3436EE35EE863934">
+		<name>Toni Morrison 1970</name>
+		<description><![CDATA[<div>While attending college, Morrison experienced a racial divide inspiring her to advocate for equality. This real-world experienced inspired her to help others navigate injustice. Banned work reduces the ability to help spread awareness and equality to various minorities and ages.&nbsp;<br></div>]]></description>
+		<styleUrl>#__managed_style_61A07AAA5D3723E205AA</styleUrl>
+	</Placemark>
+	<Placemark id="065A668FAD35EE86C229">
+		<name>Howard University</name>
+		<gx:mid>/m/0217m9</gx:mid>
+		<gx:fid>0x89b7b7fc56b4cef9:0x32dcc71fc8db77c2</gx:fid>
+		<LookAt>
+			<longitude>-77.0194377</longitude>
+			<latitude>38.9226843</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.1071798795615</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3A0FFA18BA3723E205AA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QVBSRE1BVjNlS2pnM0k4TmtSZHBmTHJTWlFNczdGZGt5MjRCRjlweW5SZjd1bk50OFBETnpBQ0RYOU1LVmNMYnVwVytYUGhrRjdFa1A5Vm10NVJlUkMvNUpod1c2NmJ5NVFTaGV0L3VwcHlUWFlMRzUvMnBNQzloN3ZJWGtoNjB3RTkvQ0o2WG9xaU1GTUp6bkF6djduazZ5NThCa2hzNU00M1hBTFpwV3hpZnZkRU1sWXlYRWtTV2p4a0ZPeGdsMEFFRm1WTnlxcVJFNFFxc1k0MWJKY2NZNThCcDhpaFBvVjR3R2VZM1hMNVQzOG1qd1FmMXF3ZU9WbE9oV0dqNzlXS3lUNkE9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4APRDMAXs5Cy_jZ3wx4hu8kvmudKoFFY7_WxqG2dQAqpuzA942v4Ore7V1OngHQzzlDnka9c15UtjE7JIag_vHN-xWP5Asur4iv7zSb6aWI4B-U9_Lz_wRIv40_GxMu1frxGKylSMqcBhAvAtc-eLkb6aC09LdDNkw0EDDk8N10YuOtspmFeyMEpnRfgiVeKyNkelcgl47mGbdEdQigSy-sbS6zXPfs6vvsfBW4dDrb9WiK1mKf8G7klvTMb4rfssNPaWO-6Fpfnhi8IxQqzJ?fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0194377,38.9226843,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="039D47179635EE869542">
+		<name>Alice Walker 1984</name>
+		<styleUrl>#__managed_style_07E919C2C73723E205AA</styleUrl>
+	</Placemark>
+	<Placemark id="0A1A359B143602E781B8">
+		<name>Eatonton</name>
+		<gx:mid>/m/0rysx</gx:mid>
+		<gx:fid>0x88f69719e9def66b:0x4f6d2e1e667c5b3d</gx:fid>
+		<LookAt>
+			<longitude>-83.38868904999998</longitude>
+			<latitude>33.32566095</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>19424.3068692654</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3A0FFA18BA3723E205AA</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QVBSRE1BWGJxZmpJbE1VZWFsZjJsd3lpTWcvMkk2dXprdG1wbnNPUThON3RNbWZpQ0NiRVJ4L296aXEvSUFvaS9QdGtjYWE1ZlJ3R1BQWWQ3YlVLb3hacThCOVljYm5FdXRpdlR5S2lMbWVaMWtzVWtaWHNaaUZ0QkczWXBidTQ1azlNeFBlVmVsUm1qRFpnYnJpTFdqMm5taytrTXczU3o0OWsrUFV1Z3c5ZTk1K2k4U0QvclRXMWZkU2tqWkFFY1ZzSGU3cURCSmZVU2ZFUyt2dFpoblNtS2RrQThoMzVjMnlaRnYxVUsybWFvUzBFRHdkT0NibmczQUZOdy91Tm9SaDFSY2M9">
+				<gx:imageUrl>https://earth.usercontent.google.com/hostedimage/e/*/4APRDMAXzlpRtEAwsbVhkhZ2K2u-M-KJBpzDRzSW9DHT6QHwG_9F4TiJ0qf8RCQ4IL4b8O1QsAnAjSQbe3uyBLprwzNz0yKn8oa-0fg4nGVPjt0gfilpgDxRDupjaZzJYoPL1XmgPaA4hooyh0uKqFzDxZ5MW-nuiuajQTqxmcRjH_XxIBgpdmNQFBqWqaFoSI4oI-Z4UP_b4Fa_WQTJVoFsiU2b8j9fabKJQy7-W_g-eR6suE97sVpjzWPZ3nqKQq0f7tVnI5gmQ3jF0vQm2?fife=s{size}</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-83.3884961,33.3267997,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA07197813603AF37FC">
+		<name>Zora Hurston 1997</name>
+		<description><![CDATA[<span style="color: rgb(0, 29, 53); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span class="font" style="font-family: &quot;Google Sans&quot;, Roboto, Arial, sans-serif;"><span class="size" style="font-size: 18px;"><span><div>Zora Neale Hurston's childhood home of<span>&nbsp;</span>Eatonville, Florida<span>&nbsp;</span>was a major source of inspiration for her writing and research.<br></div></span><div><span><span>&nbsp;</span></span><br></div></span></span></span><div><span style="color: rgb(0, 29, 53); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span class="font" style="font-family: &quot;Google Sans&quot;, Roboto, Arial, sans-serif;"><span class="size" style="font-size: 18px;"><span>Eatonville was one of the first all-Black towns in the United States, and Hurston's experiences there shaped her sense of cultural pride and identity</span></span></span></span><br></div>]]></description>
+		<styleUrl>#__managed_style_0364BE35593723E205AB</styleUrl>
+	</Placemark>
+	<Placemark id="0754905C823609BECA0A">
+		<name>The Moseley House Museum</name>
+		<gx:mid>/g/11b6_ztxmk</gx:mid>
+		<gx:fid>0x88e7705a5c721a8b:0x74e1f8b0ed4a7d11</gx:fid>
+		<LookAt>
+			<longitude>-81.3761348</longitude>
+			<latitude>28.6180969</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>913.8827756055983</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_32A300999D3723E205AB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-81.376188,28.6180966,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="072B220C4435F3B04F6F">
+		<name>Angie Thomas 2017</name>
+		<description><![CDATA[<div>Angie Thomas witnessed gun violence and shootings while growing up. After her mother took her to the library shortly after, she learned to use books as a form of comfort and peace. Having her books banned today prevents children from seeking the same comfort when presented with difficult circumstances in real life.&nbsp;<br></div>]]></description>
+		<styleUrl>#__managed_style_07E919C2C73723E205AA</styleUrl>
+	</Placemark>
+	<Placemark id="07C39F593935F3B09F5E">
+		<name>Jackson</name>
+		<gx:mid>/m/043yj</gx:mid>
+		<gx:fid>0x86282b7f90741b21:0x713cde441f038a0</gx:fid>
+		<LookAt>
+			<longitude>-90.19278249999999</longitude>
+			<latitude>32.30405795</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>39297.86683351818</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_32A300999D3723E205AB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-90.18065,32.2981392,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="012DF5D01B36023B0AB1">
+		<name>International Inspirations</name>
+		<description><![CDATA[<div>Some of the authors listed throughout have also had international inspiration as a writer. For example, Maya Angelou's work is inspired by her time in Africa, where she was able to connect with her culture and bring these ideologies back to the US during the Civil Rights Movement.&nbsp;<br></div>]]></description>
+		<styleUrl>#__managed_style_61A07AAA5D3723E205AA</styleUrl>
+	</Placemark>
+	<Placemark id="0ED89101DF35F3AEDEA9">
+		<name>Africa</name>
+		<gx:mid>/m/0dg3n1</gx:mid>
+		<gx:fid>0x10a06c0a948cf5d5:0x108270c99e90f0b3</gx:fid>
+		<LookAt>
+			<longitude>23.59146645</longitude>
+			<latitude>2.265532400000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>11893167.42803867</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_32A300999D3723E205AB</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>34.508523,-8.783194999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="014202AD0A3609C1D2B3">
+		<name>Cairo</name>
+		<description><![CDATA[<div>Maya Angelou began writing to advocate for equality after moving to Egypt where she wrote for a journal and used this to position her poetry and writing from a political angle.&nbsp;&nbsp;<br></div>]]></description>
+		<gx:mid>/m/01w2v</gx:mid>
+		<gx:fid>0x14583fa60b21beeb:0x79dfb296e8423bba</gx:fid>
+		<LookAt>
+			<longitude>31.25846435</longitude>
+			<latitude>30.05948845</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>20120.42508153958</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3A0FFA18BA3723E205AA</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>31.2357116,30.0444196,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
