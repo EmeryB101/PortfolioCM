@@ -5,8 +5,6 @@
 ## Below are links to some of my works. These range from phsycial creations to works derived from various digital platforms. 
 - [self_portrait](IMG_0244.PNG)
 
-- [feminist](feminist_poetics.html)
-
 - [juxtapositions_of_life](the_juxtapositions_of_life-1.html) 
 
 - [Defining_women](Defining_Women_Beckman-1.html)
