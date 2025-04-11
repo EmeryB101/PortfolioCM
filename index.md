@@ -7,8 +7,6 @@
 ## The remaining works build upon this physical creation of my self portrait and move into various digital tools to continue demonstrating feminist rhetoric through tools that provided diverse building opportunities. 
 - [juxtapositions_of_life](the_juxtapositions_of_life-1.html) 
 
-- [Defining_women](Defining_Women_Beckman-1.html)
-
 - [my_mapping_of_feminism](Blooming.html)
 
 - [blooming](Blooming.html)
