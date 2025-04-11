@@ -11,8 +11,6 @@
 
 - [my_mapping_of_feminism](Blooming.html)
 
-- [juxtapositions_of_life](the_juxtapositions_of_life-1.html)  
-
 - [blooming](Blooming.html)
 
 - [voyant](Voyant.htm)
