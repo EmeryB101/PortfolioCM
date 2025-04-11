@@ -13,8 +13,6 @@
 
 - [blooming](Blooming.html)
 
-- [voyant](Voyant.html)
-
 ![gif](GIF_cm.webp)
 
 ![image](IMG_0296.jpg)
