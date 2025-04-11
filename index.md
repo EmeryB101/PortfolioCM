@@ -15,8 +15,6 @@
 
 - [blooming](Blooming.html)
 
-- [my_feminism_project](Grammar.hmtl)
-
 - [voyant](Voyant.htm)
 
 ![gif](GIF_cm.webp)
