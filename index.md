@@ -13,7 +13,7 @@
 
 - [blooming](Blooming.html)
 
-- [voyant](Voyant.htm)
+- [voyant](Voyant.html)
 
 ![gif](GIF_cm.webp)
 
